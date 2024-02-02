@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IslamiProject" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#141A2E</item>
+        <item name="colorPrimaryVariant">#FACC1D</item>
+        <item name="colorOnPrimary">@color/white</item>
+        //secondary colors
+        <item name="colorSecondary">@color/bottom_nav_bar</item>
+
+
+    </style>
+
+    <style name="Theme.IslamiProject" parent="Base.Theme.IslamiProject" />
+</resources>

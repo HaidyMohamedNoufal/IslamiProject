@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FACC1D</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#F8F8F8</color>
+    <color name="colorPrimaryVariant">#141A2E</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="counter_box_color">#B5141A2E</color>
+    <color name="linesColor">#FACC1D</color>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <array name="azkarList" >
+    <item>سبحان الله </item>
+    <item>  الحمد لله</item>
+    <item> لا اله الا الله </item>
+    <item>الله اكبر </item>
+    <item>لا حول ولا قوة إلا بالله </item>
+    </array>
+    <string name="app_name">Islami Project</string>
+    <string name="islami">إسلامي</string>
+    <string name="todo">TODO</string>
+    <string name="imagename">اسم الصوره</string>
+    <string name="numofayaat">عدد الآيات</string>
+    <string name="quran">القرأن</string>
+    <string name="ahadeth">الاحاديث</string>
+    <string name="tasbeh">التسبيح</string>
+    <string name="radio">الراديو</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="SouraName">اسم الصوره</string>
+    <string name="souraname">اسم السوره</string>
+    <string name="bodysebha">TODO</string>
+    <string name="headsebha">TODO</string>
+    <string name="azkar">عدد التسبيحات</string>
+    <string name="num_of_dhikr">0</string>
+</resources>
